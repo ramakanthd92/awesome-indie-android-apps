@@ -1,1 +1,1 @@
-# awesome-android-indie-apps
+# awesome-indie-android-apps
