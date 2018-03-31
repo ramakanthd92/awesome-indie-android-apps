@@ -11,17 +11,20 @@ BuildMyVocab [(App)](https://play.google.com/store/apps/details?id=com.buildmyvo
 Dragon Slayer [(App)](https://play.google.com/store/apps/details?id=com.thoughtshastra.dragonslayer)|Action 3D first person game|10K+ Downloads (2018)| | [Bharat Parikh](https://www.quora.com/profile/Bharat-Parikh)| |
 Curated [(App)](https://play.google.com/store/apps/details?id=com.curated.android)| Collection of Best Android games|10K+ | |
 
+
 ### Travel 
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 TrainMan [(App)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp) [(Website)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp)  | Indian railways train ticket confirmation status & prediction  |1 M+ Downloads (2018)| May 30, 2014 |[Md Amir](https://www.linkedin.com/in/amir3107/) [Vineet Chirania](https://www.linkedin.com/in/vineet-chirania-8a56915/) [Karan Kumar](https://www.linkedin.com/in/karan-kumar-ab539512/)| | [[BW]](http://bwdisrupt.businessworld.in/article/Trainman-An-Online-Platform-Making-Indian-Railways-Services-Easier-and-Disruptive/03-08-2016-103992/) [[HF]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[Q]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[ND]](https://gadgets.ndtv.com/internet/features/nine-simple-tips-to-make-your-irctc-experience-a-little-bit-less-painful-723823?pfrom=home-indepth) [[YS]](https://yourstory.com/2014/08/trainman-confirmed-reservation/) [[NM]](https://www.thenewsminute.com/technologies/81)[[TK]](http://trak.in/tags/business/2014/07/10/trainman-predicts-confirmation-irctc-train-tickets/) 
+
+Shortcuts for Waze 2.0 [(App)](https://play.google.com/store/apps/details?id=com.uxiomatic.shortcutsforwaze)|Navigate to where you want to go, without opening Waze | 10K+ Downloads| |[Rotem Yakir](https://www.linkedin.com/in/rotemyakir/) [Shahar Yakir](https://www.linkedin.com/in/shahar-yakir-1895a13/) | $520K| 
 
 
 ### Communication 
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 Beelinguapp [(App)](https://play.google.com/store/apps/details?id=com.david.android.languageswitch)| Learn Languages with Audio Books | 500K+ Downloads (2018)||[David Montiel](https://angel.co/david-montiel)||[[KS]](https://www.kickstarter.com/projects/340177192/beelinguapp-read-and-listen-two-languages-in-paral)|
-
+Guggy GIF Keyboard [(App)](https://play.google.com/store/apps/details?id=com.guggy.funapp&hl=en)|Keyboard to instantly share funny GIFs in all your favorite messengers |50K+ Downloads (2018)| | [r/showHN](https://news.ycombinator.com/submitted?id=HumorCity)
 
 ### Music & Audio
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
@@ -57,11 +60,12 @@ neutriNote [(App)](https://play.google.com/store/apps/details?id=com.appmindlab.
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 Peek Launcher[(App)](https://play.google.com/store/apps/details?id=com.waffleware.launcher)| ML based quick launcher| 50K+ Downloads (2018)|Dec 8, 2016|[Pol Kuijken](https://www.linkedin.com/in/polkuijken/)||[[Medium]](https://medium.com/@polkuijken/case-study-peek-launcher-220f0e505d51)
-Medical ID [(App)](https://play.google.com/store/apps/details?id=app.medicalid.free)|In-Emergencey medical profiles on lock screen||100K+ Downloads (2018)|[Laurent Pellegrino](https://www.linkedin.com/in/laurentpellegrino/) [(Blog)](http://www.pellegrino.link/)| |
+Medical ID [(App)](https://play.google.com/store/apps/details?id=app.medicalid.free)|In-Emergencey medical profiles on lock screen||100K+ Downloads (2018)|[Laurent Pellegrino](https://www.linkedin.com/in/laurentpellegrino/) [(Blog)](http://www.pellegrino.link/)| |[r/showHN](https://news.ycombinator.com/item?id=12572019)
 THING Launcher [(App)](https://play.google.com/store/apps/details?id=com.thing.launcher) [Website](https://thing.se/)| Automation and Deep learning based launcher |100K+ Downloads (2018)| | [William Dahlheim](https://www.linkedin.com/in/williamdahlheim/)| | 
 HPSTR Wallpapers [(App)](https://play.google.com/store/apps/details?id=com.hpstr.wllppr)| HD live wallpapers collection from best photo communities | 100K+ Downloads (2018)| |[Balazs Zsedely](https://www.linkedin.com/in/balazszsedely/)|| [ProductHunt](https://www.producthunt.com/posts/hpstr) [Medium](https://medium.com/we-are-makery/your-homescreens-deserve-to-be-beautiful-38da7d2fbaea)
 DmonD Icon Pack [(App)](https://play.google.com/store/apps/details?id=com.futureblink.dmond) | Clean and beautiful take on your daily android Icons|50K+ Downloads (2018)| | ||
-Call Log Analytics [(App)](https://play.google.com/store/apps/details?id=com.qohlo.ca)|Simple, clutter-free, and easy-to-use call log stats|100K+ Downloads|
+Call Log Analytics [(App)](https://play.google.com/store/apps/details?id=com.qohlo.ca)|Simple, clutter-free, and easy-to-use call log stats|100K+ Downloads||||[r/showHN](https://news.ycombinator.com/submitted?id=chloeyoung)
+Ap15 Launcher [(App)](https://play.google.com/store/apps/details?id=com.aurhe.ap15)|Home screen with App open count based word cloud|500K+ Downloads| | | [r/showHN](https://news.ycombinator.com/submitted?id=apseren)
 
 
 ### Weather
@@ -72,9 +76,9 @@ FlowX [(App)](https://play.google.com/store/apps/details?id=com.enzuredigital.we
 ### Photography
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
-Polarr Photo Editor [(App)](https://play.google.com/store/apps/details?id=photo.editor.polarr&hl=en) [(Website)](https://photoeditor.polarr.co/)|  Advanced auto-enhance tools & sophisticated filters to edit photos| 1M+ Downloads (2018) |Aug 13, 2014 |[Borui Wang]() [Enhao Gong]() |$2M| [r/showHN](https://news.ycombinator.com/submitted?id=bwang29&next=8408640&n=31)
+Polarr Photo Editor [(App)](https://play.google.com/store/apps/details?id=photo.editor.polarr&hl=en) [(Website)](https://photoeditor.polarr.co/)|  Advanced auto-enhance tools & sophisticated filters to edit photos| 1M+ Downloads (2018) |Aug 13, 2014 |[Borui Wang]() [Enhao Gong]() |$2M| [r/showHN](https://news.ycombinator.com/submitted?id=bwang29&next=8408640&n=31) [Medium](https://medium.com/@pixelmagazine/the-funny-thing-about-photo-editors-is-1a50320289ff)
 Sunlocator lite [(App)](https://play.google.com/store/apps/details?id=com.genewarrior.sunlocator.lite)|Predicts the sun and moon position and path at a specific location|100K+ Downloads (2018)|Sep 2016|||[r/showHN](https://news.ycombinator.com/submitted?id=folli) [reddit](https://www.reddit.com/r/Android/comments/53cjbk/dev_sun_locator_ar_predict_the_suns_location/)
- 
+ Camarada [(App)](https://play.google.com/store/apps/details?id=com.aimfire.camarada) [(Website)](https://camarada.co/)| 3D Camera, VR Camera by linking near by smartphones to form camera-arrays|10K+ Downloads| | [Clement Ren](https://www.linkedin.com/in/clement-ren-154b66b/) | |[KickStarter](https://www.kickstarter.com/projects/1535896761/camarada-the-first-true-3d-camera-app/description) [r/showHN](https://news.ycombinator.com/submitted?id=aimfire)
  
 ### News & Magazines
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
@@ -92,6 +96,8 @@ Turkey Torrent Video Player [(App)](https://play.google.com/store/apps/details?i
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 Furlenco [(App)](https://play.google.com/store/apps/details?id=com.furlenco.android)| India’s first furniture and appliance rental/subscription app |100K+ Downloads (2018)| |[Ajith Mohan Karimpana](https://www.linkedin.com/in/ajithkarimpana/)| [[r/showHN]](https://news.ycombinator.com/submitted?id=amolgupta) [[inc42]](https://inc42.com/startups/furlenco/)
+Day by Day • Habit Tracker [(App)](https://play.google.com/store/apps/details?id=com.leoncvlt.daybyday) |Beautiful, material-design polished "Don't Break Habit" app for building habits | 10K+ Downloads| | [Leonardo Cavaletti](http://leoncvlt.com/resume/) [(Projects)](http://leoncvlt.com/projects/) | | 
+
 
 ### Finance 
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
@@ -102,7 +108,7 @@ Valuta+ (Currency Converter) [(App)](https://play.google.com/store/apps/details?
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 Write Japanese: Kanji, Hiragana, and Katakana [(App)](https://play.google.com/store/apps/details?id=dmeeuwis.kanjimaster) | Teaches you Kana characters you don't know, reviews your drawing of characters you do know|50K+ Downloads (2018)| |[David Meeuwis](https://www.linkedin.com/in/david-meeuwis-9981726a/)| | 
- 
+ 10,000 sentences [(App)](https://play.google.com/store/apps/details?id=info.puzz.a10000sentences)| Learn new words in your target languages sentence by sentence| 10K+ Downloads (2018)| |[Tomo Krajina](https://www.linkedin.com/in/tomokrajina/) [(Github](https://github.com/tkrajina) | | [r/showHN](https://news.ycombinator.com/submitted?id=puzz)
  
 ### Board 
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
@@ -113,9 +119,16 @@ Chessify - Scan, Analyze, Play [(App)](https://play.google.com/store/apps/detail
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 Heart Rate Monitor [(App)](https://play.google.com/store/apps/details?id=com.supersimpleapps.heart_rate_monitor_newui) |Heart rate recongnition by using the camera of your phone | 1M+ Downloads (2018)|||| [r/showHN](https://news.ycombinator.com/submitted?id=desmondyip1978)
-JBlueCut - Screen filter [(App)](https://play.google.com/store/apps/details?id=com.jintin.jbluecut.free)|Blue light screen filter - eye protection App|100K+ Downloads| |[Jintin Apps](https://www.facebook.com/JintinApps)| |
+JBlueCut - Screen filter [(App)](https://play.google.com/store/apps/details?id=com.jintin.jbluecut.free)|Blue light screen filter - eye protection App|100K+ Downloads| |[Jintin Apps](https://www.facebook.com/JintinApps)| | [r/showHN](https://news.ycombinator.com/submitted?id=Jintin)
 
+### Business
+Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+Invoice with ProBooks [(App)](https://play.google.com/store/apps/details?id=com.twansoftware.invoicemakerpro&hl=en) | Realtime Invoicing | 100K+ Downloads (2018)| | | | [r/showHN](https://news.ycombinator.com/submitted?id=chuinard) 
 
-### Cross-platform Ideas
+### Cross-platform Ideas & Inspiration 
+ - [r/showHN - DropBox early Traction thread](https://news.ycombinator.com/item?id=8863)
+ - [r/showHN - BeeLineReader - Dim online distractions & make reading faster / easier](https://news.ycombinator.com/item?id=6335784)
  - [Channeling history into Exciting games](https://www.pcgamer.com/indie-developers-in-india-are-channeling-their-history-into-exciting-new-games/)
- 
+ - [Hacker News Books](https://hackernewsbooks.com/)
+ - [ArtPip - A NEW MASTERPIECE EVERY DAY] (https://www.artpip.com/) [Early Traction](https://news.ycombinator.com/submitted?id=mcjiggerlog)
