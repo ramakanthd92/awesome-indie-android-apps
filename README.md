@@ -49,7 +49,9 @@ Remove Objects-Touch Eraser [(App)](https://play.google.com/store/apps/details?i
 MoveIt [(App)](https://play.google.com/store/apps/details?id=moveit.movetosdcard.cleaner)|  Transfer media to SD Card & viceversa |100K+ Downloads (2018)| | | | 
 Noisli [(App)](https://play.google.com/store/apps/details?id=com.noisli.noisli) [Website](https://www.noisli.com/)| The background noise and color generator for working and relaxing | 50K+ Downloads (2018) | |[Stefano Merlo](https://www.linkedin.com/in/stefanomerlo/)|| [r/showHN](https://news.ycombinator.com/submitted?id=noisli)
 Wake Me Up! [(App)](https://play.google.com/store/apps/details?id=com.moosa.alarmclock) |It stops ringing only when you have walked a certain number of steps |100K+ Downloads (2018)| | [Bazzinga Labs](http://bazzingalabs.com/?page_id=12)| 
-
+Tldroid - Simplified man pages [(App)](https://play.google.com/store/apps/details?id=io.github.hidroh.tldroid) |Android client for [tldr man pages](https://laravel-news.com/tldr-pages) |10K+ Downloads (2018)| |[Ha Duy Trung](https://github.com/hidroh) [(Blog)](http://www.hidroh.com/)| | 
+Custom Voice Commands [(App)](https://play.google.com/store/apps/details?id=com.treycent.wearapp)|Customized voice commands to talk to Alexa| 100K+ Downloads ||[Donald McSwain](https://www.linkedin.com/in/donmcswain/)||
+neutriNote [(App)](https://play.google.com/store/apps/details?id=com.appmindlab.nano)| Note pad with support for Math (LaTeX) or Rich markdown & Drawings|10K+ Downloads (2018)||||
 
 ### Personalization
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
@@ -59,6 +61,8 @@ Medical ID [(App)](https://play.google.com/store/apps/details?id=app.medicalid.f
 THING Launcher [(App)](https://play.google.com/store/apps/details?id=com.thing.launcher) [Website](https://thing.se/)| Automation and Deep learning based launcher |100K+ Downloads (2018)| | [William Dahlheim](https://www.linkedin.com/in/williamdahlheim/)| | 
 HPSTR Wallpapers [(App)](https://play.google.com/store/apps/details?id=com.hpstr.wllppr)| HD live wallpapers collection from best photo communities | 100K+ Downloads (2018)| |[Balazs Zsedely](https://www.linkedin.com/in/balazszsedely/)|| [ProductHunt](https://www.producthunt.com/posts/hpstr) [Medium](https://medium.com/we-are-makery/your-homescreens-deserve-to-be-beautiful-38da7d2fbaea)
 DmonD Icon Pack [(App)](https://play.google.com/store/apps/details?id=com.futureblink.dmond) | Clean and beautiful take on your daily android Icons|50K+ Downloads (2018)| | ||
+Call Log Analytics [(App)](https://play.google.com/store/apps/details?id=com.qohlo.ca)|Simple, clutter-free, and easy-to-use call log stats|100K+ Downloads|
+
 
 ### Weather
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
@@ -99,6 +103,19 @@ Application | Description | Downloads / Visits| Founded | Founders | Funding | E
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 Write Japanese: Kanji, Hiragana, and Katakana [(App)](https://play.google.com/store/apps/details?id=dmeeuwis.kanjimaster) | Teaches you Kana characters you don't know, reviews your drawing of characters you do know|50K+ Downloads (2018)| |[David Meeuwis](https://www.linkedin.com/in/david-meeuwis-9981726a/)| | 
  
+ 
+### Board 
+Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+Chessify - Scan, Analyze, Play [(App)](https://play.google.com/store/apps/details?id=com.fimetech.chessfimee)| Scan, digitize & analyze chess diagrams using cloud chess engines | 100K+ Downloads (2018)| |[Gor Vardanyan](https://www.linkedin.com/in/gorvardanyan/) [Hambardzum Petrosyan](https://www.linkedin.com/in/hambardzum-petrosyan-10364822/) | €50K|    
+
+### Health & Fitness
+Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+Heart Rate Monitor [(App)](https://play.google.com/store/apps/details?id=com.supersimpleapps.heart_rate_monitor_newui) |Heart rate recongnition by using the camera of your phone | 1M+ Downloads (2018)|||| [r/showHN](https://news.ycombinator.com/submitted?id=desmondyip1978)
+JBlueCut - Screen filter [(App)](https://play.google.com/store/apps/details?id=com.jintin.jbluecut.free)|Blue light screen filter - eye protection App|100K+ Downloads| |[Jintin Apps](https://www.facebook.com/JintinApps)| |
+
+
 ### Cross-platform Ideas
  - [Channeling history into Exciting games](https://www.pcgamer.com/indie-developers-in-india-are-channeling-their-history-into-exciting-new-games/)
  
