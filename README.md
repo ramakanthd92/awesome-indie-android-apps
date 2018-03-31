@@ -9,14 +9,13 @@ Avion Flight Simulator[(App)](https://play.google.com/store/apps/details?id=com.
 Enemy Waters [(App)](https://play.google.com/store/apps/details?id=teapotgames.com.enemywaters)|  Warship & Submarine Simulation player|1M+ Downloads|| [Satish Chandra](https://www.linkedin.com/in/satish-chandra-74312041/)||
 BuildMyVocab [(App)](https://play.google.com/store/apps/details?id=com.buildmyvocab.greenglishgame) [(Website)](https://buildmyvocab.com)| Psych inspired GRE preparation game| 100K+ Downloads (2018)| | || [r/showHN](https://news.ycombinator.com/from?site=buildmyvocab.in)
 Dragon Slayer [(App)](https://play.google.com/store/apps/details?id=com.thoughtshastra.dragonslayer)|Action 3D first person game|10K+ Downloads (2018)| | [Bharat Parikh](https://www.quora.com/profile/Bharat-Parikh)| |
-Curated [(App)](https://play.google.com/store/apps/details?id=com.curated.android)| Collection of Best Android games|10K+ | |
+Curated [(App)](https://play.google.com/store/apps/details?id=com.curated.android)| Collection of Best Android games|10K+ Downloads (2018) | |
 
 
 ### Travel 
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
 TrainMan [(App)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp) [(Website)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp)  | Indian railways train ticket confirmation status & prediction  |1 M+ Downloads (2018)| May 30, 2014 |[Md Amir](https://www.linkedin.com/in/amir3107/) [Vineet Chirania](https://www.linkedin.com/in/vineet-chirania-8a56915/) [Karan Kumar](https://www.linkedin.com/in/karan-kumar-ab539512/)| | [[BW]](http://bwdisrupt.businessworld.in/article/Trainman-An-Online-Platform-Making-Indian-Railways-Services-Easier-and-Disruptive/03-08-2016-103992/) [[HF]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[Q]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[ND]](https://gadgets.ndtv.com/internet/features/nine-simple-tips-to-make-your-irctc-experience-a-little-bit-less-painful-723823?pfrom=home-indepth) [[YS]](https://yourstory.com/2014/08/trainman-confirmed-reservation/) [[NM]](https://www.thenewsminute.com/technologies/81)[[TK]](http://trak.in/tags/business/2014/07/10/trainman-predicts-confirmation-irctc-train-tickets/) 
-
 Shortcuts for Waze 2.0 [(App)](https://play.google.com/store/apps/details?id=com.uxiomatic.shortcutsforwaze)|Navigate to where you want to go, without opening Waze | 10K+ Downloads| |[Rotem Yakir](https://www.linkedin.com/in/rotemyakir/) [Shahar Yakir](https://www.linkedin.com/in/shahar-yakir-1895a13/) | $520K| 
 
 
@@ -50,7 +49,7 @@ InstaBridge [(App)](https://play.google.com/store/apps/details?id=com.instabridg
 GlassWire [(App)](https://play.google.com/store/apps/details?id=com.glasswire.android) [(Website)](https://www.glasswire.com/)| Network Data Usage Monitoring & Security App|100K+ Downloads (2018)|Aug 21, 2014|[Jon Hundley](https://twitter.com/hundley) [(HN profile)](https://news.ycombinator.com/submitted?id=greenwalls)||[r/showHN](https://news.ycombinator.com/item?id=8226455)
 Remove Objects-Touch Eraser [(App)](https://play.google.com/store/apps/details?id=com.remove.eraser.photo.object) | Remove unwanted content from your photos | 500K+ Downloads (2018)| | | 
 MoveIt [(App)](https://play.google.com/store/apps/details?id=moveit.movetosdcard.cleaner)|  Transfer media to SD Card & viceversa |100K+ Downloads (2018)| | | | 
-Noisli [(App)](https://play.google.com/store/apps/details?id=com.noisli.noisli) [Website](https://www.noisli.com/)| The background noise and color generator for working and relaxing | 50K+ Downloads (2018) | |[Stefano Merlo](https://www.linkedin.com/in/stefanomerlo/)|| [r/showHN](https://news.ycombinator.com/submitted?id=noisli)
+Noisli [(App)](https://play.google.com/store/apps/details?id=com.noisli.noisli) [(Website)](https://www.noisli.com/)| The background noise and color generator for working and relaxing | 50K+ Downloads (2018) | |[Stefano Merlo](https://www.linkedin.com/in/stefanomerlo/)|| [r/showHN](https://news.ycombinator.com/submitted?id=noisli)
 Wake Me Up! [(App)](https://play.google.com/store/apps/details?id=com.moosa.alarmclock) |It stops ringing only when you have walked a certain number of steps |100K+ Downloads (2018)| | [Bazzinga Labs](http://bazzingalabs.com/?page_id=12)| 
 Tldroid - Simplified man pages [(App)](https://play.google.com/store/apps/details?id=io.github.hidroh.tldroid) |Android client for [tldr man pages](https://laravel-news.com/tldr-pages) |10K+ Downloads (2018)| |[Ha Duy Trung](https://github.com/hidroh) [(Blog)](http://www.hidroh.com/)| | 
 Custom Voice Commands [(App)](https://play.google.com/store/apps/details?id=com.treycent.wearapp)|Customized voice commands to talk to Alexa| 100K+ Downloads ||[Donald McSwain](https://www.linkedin.com/in/donmcswain/)||
@@ -131,4 +130,4 @@ Invoice with ProBooks [(App)](https://play.google.com/store/apps/details?id=com.
  - [r/showHN - BeeLineReader - Dim online distractions & make reading faster / easier](https://news.ycombinator.com/item?id=6335784)
  - [Channeling history into Exciting games](https://www.pcgamer.com/indie-developers-in-india-are-channeling-their-history-into-exciting-new-games/)
  - [Hacker News Books](https://hackernewsbooks.com/)
- - [ArtPip - A NEW MASTERPIECE EVERY DAY] (https://www.artpip.com/) [Early Traction](https://news.ycombinator.com/submitted?id=mcjiggerlog)
+ - [ArtPip - A New Masterpicece everyday](https://www.artpip.com/) [Early Traction](https://news.ycombinator.com/submitted?id=mcjiggerlog)
