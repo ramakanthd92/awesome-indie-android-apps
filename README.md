@@ -1,46 +1,5 @@
 ## awesome-indie-android-apps      [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### Gaming 
-Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
------------- | -------------| -------------| -------------| -------------| ------------| -------------
-7x7 app [(App)](https://play.google.com/store/apps/details?id=me.kiip.skeemo&hl=en)|Color Strategy game|1M+ Downloads (2018)|January 2013|||
-Run,dude,run [(App)](https://play.google.com/store/apps/details?id=com.agilizer.org)|Simple game testing logic & thinking speed|100K+ Downloads (2018)||[Andrey Demskiy](http://agilizer.org/)||
-Avion Flight Simulator[(App)](https://play.google.com/store/apps/details?id=com.teapotgames.avionflightsimulator) |Aircraft cockpit view based simulation player|5M+ Downloads||[Satish Chandra](https://www.linkedin.com/in/satish-chandra-74312041/)| | 
-Enemy Waters [(App)](https://play.google.com/store/apps/details?id=teapotgames.com.enemywaters)|  Warship & Submarine Simulation player|1M+ Downloads|| [Satish Chandra](https://www.linkedin.com/in/satish-chandra-74312041/)||
-BuildMyVocab [(App)](https://play.google.com/store/apps/details?id=com.buildmyvocab.greenglishgame) [(Website)](https://buildmyvocab.com)| Psych inspired GRE preparation game| 100K+ Downloads (2018)| | || [r/showHN](https://news.ycombinator.com/from?site=buildmyvocab.in)
-Dragon Slayer [(App)](https://play.google.com/store/apps/details?id=com.thoughtshastra.dragonslayer)|Action 3D first person game|10K+ Downloads (2018)| | [Bharat Parikh](https://www.quora.com/profile/Bharat-Parikh)| |
-Curated [(App)](https://play.google.com/store/apps/details?id=com.curated.android)| Collection of Best Android games|10K+ Downloads (2018) | |
-
-
-### Travel 
-Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
------------- | -------------| -------------| -------------| -------------| ------------| -------------
-TrainMan [(App)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp) [(Website)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp)  | Indian railways train ticket confirmation status & prediction  |1 M+ Downloads (2018)| May 30, 2014 |[Md Amir](https://www.linkedin.com/in/amir3107/) [Vineet Chirania](https://www.linkedin.com/in/vineet-chirania-8a56915/) [Karan Kumar](https://www.linkedin.com/in/karan-kumar-ab539512/)| | [[BW]](http://bwdisrupt.businessworld.in/article/Trainman-An-Online-Platform-Making-Indian-Railways-Services-Easier-and-Disruptive/03-08-2016-103992/) [[HF]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[Q]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[ND]](https://gadgets.ndtv.com/internet/features/nine-simple-tips-to-make-your-irctc-experience-a-little-bit-less-painful-723823?pfrom=home-indepth) [[YS]](https://yourstory.com/2014/08/trainman-confirmed-reservation/) [[NM]](https://www.thenewsminute.com/technologies/81)[[TK]](http://trak.in/tags/business/2014/07/10/trainman-predicts-confirmation-irctc-train-tickets/) 
-Shortcuts for Waze 2.0 [(App)](https://play.google.com/store/apps/details?id=com.uxiomatic.shortcutsforwaze)|Navigate to where you want to go, without opening Waze | 10K+ Downloads| |[Rotem Yakir](https://www.linkedin.com/in/rotemyakir/) [Shahar Yakir](https://www.linkedin.com/in/shahar-yakir-1895a13/) | $520K| 
-
-
-### Communication 
-Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
------------- | -------------| -------------| -------------| -------------| ------------| -------------
-Beelinguapp [(App)](https://play.google.com/store/apps/details?id=com.david.android.languageswitch)| Learn Languages with Audio Books | 500K+ Downloads (2018)||[David Montiel](https://angel.co/david-montiel)||[[KS]](https://www.kickstarter.com/projects/340177192/beelinguapp-read-and-listen-two-languages-in-paral)|
-Guggy GIF Keyboard [(App)](https://play.google.com/store/apps/details?id=com.guggy.funapp&hl=en)|Keyboard to instantly share funny GIFs in all your favorite messengers |50K+ Downloads (2018)| | [r/showHN](https://news.ycombinator.com/submitted?id=HumorCity)
-
-### Music & Audio
-Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
------------- | -------------| -------------| -------------| -------------| ------------| -------------
-Music DNA [(App)](https://play.google.com/store/apps/details?id=com.sdsmdg.harjot.MusicDNA)|Traditional Music Player with amazing visualizations |50K+ Downloads(2018)||[MDG,SDS](https://sdslabs.co/)||
-Voice Recorder [(App)](https://play.google.com/store/apps/details?id=com.triveous.recorder)|HQ Voice Recorder with video, slides , notes support|500K+ Downloads(2018)|2013| [Soham Mondal](https://www.linkedin.com/in/sohammondal/) |  | [YourStory](https://yourstory.com/2013/08/techie-tuesdays-soham-mondal-the-story-of-a-geek-turned-entrepreneur/)
-909 [(App)](https://play.google.com/store/apps/details?id=com.gk.sequencer) |Drum Sequencer(modern interface) for sequence composition|100K+ Downloads(2018)||||
-
-
-### Social Networks
- Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
------------- | -------------| -------------| -------------| -------------| ------------| -------------
-Joey for Reddit [(App)](https://play.google.com/store/apps/details?id=o.o.joey)| 3rd party text to speech client for Reddit| 10K downloads (2018)||||[r/tech](https://www.reddit.com/r/IAmA/comments/5tffqi/i_have_made_joey_for_reddit_android_app_that_lets/)
-Freelapp [App](https://play.google.com/store/apps/details?id=com.faztudo)|Find Freelance Jobs on Real Time Maps|10K+ Downloads (2018)|April 28, 2017|[Patrick Steiger](https://www.linkedin.com/in/patrick-steiger-24844221/)| |
-Hot Apps Nearby[(App)](https://play.google.com/store/apps/details?id=nearby.apps.hot.popular.com.hotappsnearby)|Discover popular apps and games in your nearby location|10K+ Downloads (2018)||[Patrick Steiger](https://www.linkedin.com/in/patrick-steiger-24844221/)| |
-
-
 ### Productivity & Tools
  Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
@@ -79,6 +38,49 @@ Polarr Photo Editor [(App)](https://play.google.com/store/apps/details?id=photo.
 Sunlocator lite [(App)](https://play.google.com/store/apps/details?id=com.genewarrior.sunlocator.lite)|Predicts the sun and moon position and path at a specific location|100K+ Downloads (2018)|Sep 2016|||[r/showHN](https://news.ycombinator.com/submitted?id=folli) [reddit](https://www.reddit.com/r/Android/comments/53cjbk/dev_sun_locator_ar_predict_the_suns_location/)
  Camarada [(App)](https://play.google.com/store/apps/details?id=com.aimfire.camarada) [(Website)](https://camarada.co/)| 3D Camera, VR Camera by linking near by smartphones to form camera-arrays|10K+ Downloads| | [Clement Ren](https://www.linkedin.com/in/clement-ren-154b66b/) | |[KickStarter](https://www.kickstarter.com/projects/1535896761/camarada-the-first-true-3d-camera-app/description) [r/showHN](https://news.ycombinator.com/submitted?id=aimfire)
  
+
+### Social Networks
+ Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+Joey for Reddit [(App)](https://play.google.com/store/apps/details?id=o.o.joey)| 3rd party text to speech client for Reddit| 10K downloads (2018)||||[r/tech](https://www.reddit.com/r/IAmA/comments/5tffqi/i_have_made_joey_for_reddit_android_app_that_lets/)
+Freelapp [App](https://play.google.com/store/apps/details?id=com.faztudo)|Find Freelance Jobs on Real Time Maps|10K+ Downloads (2018)|April 28, 2017|[Patrick Steiger](https://www.linkedin.com/in/patrick-steiger-24844221/)| |
+Hot Apps Nearby[(App)](https://play.google.com/store/apps/details?id=nearby.apps.hot.popular.com.hotappsnearby)|Discover popular apps and games in your nearby location|10K+ Downloads (2018)||[Patrick Steiger](https://www.linkedin.com/in/patrick-steiger-24844221/)| |
+
+
+
+### Communication 
+Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+Beelinguapp [(App)](https://play.google.com/store/apps/details?id=com.david.android.languageswitch)| Learn Languages with Audio Books | 500K+ Downloads (2018)||[David Montiel](https://angel.co/david-montiel)||[[KS]](https://www.kickstarter.com/projects/340177192/beelinguapp-read-and-listen-two-languages-in-paral)|
+Guggy GIF Keyboard [(App)](https://play.google.com/store/apps/details?id=com.guggy.funapp&hl=en)|Keyboard to instantly share funny GIFs in all your favorite messengers |50K+ Downloads (2018)| | [r/showHN](https://news.ycombinator.com/submitted?id=HumorCity)
+
+### Music & Audio
+Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+Music DNA [(App)](https://play.google.com/store/apps/details?id=com.sdsmdg.harjot.MusicDNA)|Traditional Music Player with amazing visualizations |50K+ Downloads(2018)||[MDG,SDS](https://sdslabs.co/)||
+Voice Recorder [(App)](https://play.google.com/store/apps/details?id=com.triveous.recorder)|HQ Voice Recorder with video, slides , notes support|500K+ Downloads(2018)|2013| [Soham Mondal](https://www.linkedin.com/in/sohammondal/) |  | [YourStory](https://yourstory.com/2013/08/techie-tuesdays-soham-mondal-the-story-of-a-geek-turned-entrepreneur/)
+909 [(App)](https://play.google.com/store/apps/details?id=com.gk.sequencer) |Drum Sequencer(modern interface) for sequence composition|100K+ Downloads(2018)||||
+
+
+### Travel 
+Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+TrainMan [(App)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp) [(Website)](https://play.google.com/store/apps/details?id=in.trainman.trainmanandroidapp)  | Indian railways train ticket confirmation status & prediction  |1 M+ Downloads (2018)| May 30, 2014 |[Md Amir](https://www.linkedin.com/in/amir3107/) [Vineet Chirania](https://www.linkedin.com/in/vineet-chirania-8a56915/) [Karan Kumar](https://www.linkedin.com/in/karan-kumar-ab539512/)| | [[BW]](http://bwdisrupt.businessworld.in/article/Trainman-An-Online-Platform-Making-Indian-Railways-Services-Easier-and-Disruptive/03-08-2016-103992/) [[HF]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[Q]](https://www.huffingtonpost.in/2015/06/25/awesome-irctc-lifehack_n_7652048.html) [[ND]](https://gadgets.ndtv.com/internet/features/nine-simple-tips-to-make-your-irctc-experience-a-little-bit-less-painful-723823?pfrom=home-indepth) [[YS]](https://yourstory.com/2014/08/trainman-confirmed-reservation/) [[NM]](https://www.thenewsminute.com/technologies/81)[[TK]](http://trak.in/tags/business/2014/07/10/trainman-predicts-confirmation-irctc-train-tickets/) 
+Shortcuts for Waze 2.0 [(App)](https://play.google.com/store/apps/details?id=com.uxiomatic.shortcutsforwaze)|Navigate to where you want to go, without opening Waze | 10K+ Downloads| |[Rotem Yakir](https://www.linkedin.com/in/rotemyakir/) [Shahar Yakir](https://www.linkedin.com/in/shahar-yakir-1895a13/) | $520K| 
+
+
+### Gaming 
+Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
+------------ | -------------| -------------| -------------| -------------| ------------| -------------
+7x7 app [(App)](https://play.google.com/store/apps/details?id=me.kiip.skeemo&hl=en)|Color Strategy game|1M+ Downloads (2018)|January 2013|||
+Run,dude,run [(App)](https://play.google.com/store/apps/details?id=com.agilizer.org)|Simple game testing logic & thinking speed|100K+ Downloads (2018)||[Andrey Demskiy](http://agilizer.org/)||
+Avion Flight Simulator[(App)](https://play.google.com/store/apps/details?id=com.teapotgames.avionflightsimulator) |Aircraft cockpit view based simulation player|5M+ Downloads||[Satish Chandra](https://www.linkedin.com/in/satish-chandra-74312041/)| | 
+Enemy Waters [(App)](https://play.google.com/store/apps/details?id=teapotgames.com.enemywaters)|  Warship & Submarine Simulation player|1M+ Downloads|| [Satish Chandra](https://www.linkedin.com/in/satish-chandra-74312041/)||
+BuildMyVocab [(App)](https://play.google.com/store/apps/details?id=com.buildmyvocab.greenglishgame) [(Website)](https://buildmyvocab.com)| Psych inspired GRE preparation game| 100K+ Downloads (2018)| | || [r/showHN](https://news.ycombinator.com/from?site=buildmyvocab.in)
+Dragon Slayer [(App)](https://play.google.com/store/apps/details?id=com.thoughtshastra.dragonslayer)|Action 3D first person game|10K+ Downloads (2018)| | [Bharat Parikh](https://www.quora.com/profile/Bharat-Parikh)| |
+Curated [(App)](https://play.google.com/store/apps/details?id=com.curated.android)| Collection of Best Android games|10K+ Downloads (2018) | |
+
+
 ### News & Magazines
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
 ------------ | -------------| -------------| -------------| -------------| ------------| -------------
