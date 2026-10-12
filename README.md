@@ -13,6 +13,7 @@ Wake Me Up! [(App)](https://play.google.com/store/apps/details?id=com.moosa.alar
 Tldroid - Simplified man pages [(App)](https://play.google.com/store/apps/details?id=io.github.hidroh.tldroid) |Android client for [tldr man pages](https://laravel-news.com/tldr-pages) |10K+ Downloads (2018)| |[Ha Duy Trung](https://github.com/hidroh) [(Blog)](http://www.hidroh.com/)| | 
 Custom Voice Commands [(App)](https://play.google.com/store/apps/details?id=com.treycent.wearapp)|Customized voice commands to talk to Alexa| 100K+ Downloads ||[Donald McSwain](https://www.linkedin.com/in/donmcswain/)||
 neutriNote [(App)](https://play.google.com/store/apps/details?id=com.appmindlab.nano)| Note pad with support for Math (LaTeX) or Rich markdown & Drawings|10K+ Downloads (2018)||||
+Orano [(App)](https://play.google.com/store/apps/details?id=com.oranoai.app) [(Website)](https://oranoai.com/)| AI app that turns saved Reels, videos, and links into projects with summaries, action plans, and learning roadmaps | ||2024|[Manu Parasuraman](https://github.com/manuvamp)||
 
 ### Personalization
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
