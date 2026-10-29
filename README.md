@@ -13,6 +13,7 @@ Wake Me Up! [(App)](https://play.google.com/store/apps/details?id=com.moosa.alar
 Tldroid - Simplified man pages [(App)](https://play.google.com/store/apps/details?id=io.github.hidroh.tldroid) |Android client for [tldr man pages](https://laravel-news.com/tldr-pages) |10K+ Downloads (2018)| |[Ha Duy Trung](https://github.com/hidroh) [(Blog)](http://www.hidroh.com/)| | 
 Custom Voice Commands [(App)](https://play.google.com/store/apps/details?id=com.treycent.wearapp)|Customized voice commands to talk to Alexa| 100K+ Downloads ||[Donald McSwain](https://www.linkedin.com/in/donmcswain/)||
 neutriNote [(App)](https://play.google.com/store/apps/details?id=com.appmindlab.nano)| Note pad with support for Math (LaTeX) or Rich markdown & Drawings|10K+ Downloads (2018)||||
+Ripple [(APK)](https://github.com/ripplefocus/ripplefocus.github.io/releases/latest) [(Website)](https://ripplefocus.github.io/en/)|Screen time blocker for parents and for adults who want to cut short videos. Parents get uninstall protection, a clock that ignores system time changes and a parent unlock code. You can block WeChat Channels and Moments while chats keep working, plus YouTube Shorts and Instagram Reels. Also available for iOS 16+. Fully offline, no ads|Early stage (2026)|Oct 2026|[ripplefocus](https://github.com/ripplefocus)||
 
 ### Personalization
 Application | Description | Downloads / Visits| Founded | Founders | Funding | Early Traction
